@@ -1,0 +1,6 @@
+name: Raylcast.Money
+version: '${project.version}'
+main: raylcast.money.Money
+api-version: 1.18
+depend:
+  - ProtocolLib
